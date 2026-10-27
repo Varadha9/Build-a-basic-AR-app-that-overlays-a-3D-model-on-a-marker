@@ -1,0 +1,17 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.pidb.meta
+*.pdb.meta
+sysinfo.txt
+*.apk
+*.zip
+Android_Build/*.apk
+Android_Build/*.zip
+Android_Build/bin/
+Android_Build/classes.dex
+Android_Build/debug.keystore
